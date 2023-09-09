@@ -41,7 +41,7 @@ link {}
 
 #nol{
     flex-grow:1;
-    background: dimgray;
+    background-color: #32bbb3;
     color:white
 }
 
@@ -60,3 +60,9 @@ link {}
 }
 
 
+
+
+.operator {
+    background: gray;
+    color: silver;
+}
